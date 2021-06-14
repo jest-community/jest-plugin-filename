@@ -30,7 +30,7 @@
     "jest-regex-util": "^27.0.0",
     "jest-watcher": "^27.0.0",
     "slash": "^3.0.0",
-    "string-length": "^4.0.1",
+    "string-length": "^5.0.0",
     "strip-ansi": "^6.0.0"
   },
   "devDependencies": {
